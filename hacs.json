@@ -1,0 +1,6 @@
+{
+  "name": "Zone Gree",
+  "homeassistant": "2024.2.0",
+  "domains": ["binary_sensor", "sensor", "switch", "water_heater", "select", "button", "climate", "light", "number"],
+  "iot_class": "Cloud Polling"
+}
