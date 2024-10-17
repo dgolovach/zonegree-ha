@@ -1,5 +1,5 @@
 {
-  "domain": "gree",
+  "domain": "zone_gree",
   "name": "Zone Gree Climate",
   "codeowners": ["@cmroche"],
   "config_flow": true,
