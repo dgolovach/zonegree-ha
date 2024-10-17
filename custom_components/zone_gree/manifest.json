@@ -1,7 +1,8 @@
 {
   "domain": "zone_gree",
   "name": "Zone Gree Climate",
-  "codeowners": ["@cmroche"],
+  "version": "0.0.1",
+  "codeowners": ["@dgolovach"],
   "config_flow": true,
   "dependencies": ["network"],
   "documentation": "https://www.home-assistant.io/integrations/gree",
