@@ -9,7 +9,7 @@ DISCOVERY_TIMEOUT = 8
 DISPATCH_DEVICE_DISCOVERED = "gree_device_discovered"
 DISPATCHERS = "dispatchers"
 
-DOMAIN = "gree"
+DOMAIN = "zone_gree"
 COORDINATOR = "coordinator"
 
 FAN_MEDIUM_LOW = "medium low"
