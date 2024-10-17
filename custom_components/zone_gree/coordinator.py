@@ -6,10 +6,10 @@ from datetime import datetime, timedelta
 import logging
 from typing import Any
 
-from greeclimate.device import Device, DeviceInfo
-from greeclimate.discovery import Discovery, Listener
-from greeclimate.exceptions import DeviceNotBoundError, DeviceTimeoutError
-from greeclimate.network import Response
+from device import Device, DeviceInfo
+from discovery import Discovery, Listener
+from exceptions import DeviceNotBoundError, DeviceTimeoutError
+from network import Response
 
 from homeassistant.core import HomeAssistant
 from homeassistant.helpers.dispatcher import async_dispatcher_send

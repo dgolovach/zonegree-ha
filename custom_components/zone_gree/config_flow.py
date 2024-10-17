@@ -1,6 +1,6 @@
 """Config flow for Gree."""
 
-from greeclimate.discovery import Discovery
+from discovery import Discovery
 
 from homeassistant.components.network import async_get_ipv4_broadcast_addresses
 from homeassistant.core import HomeAssistant
